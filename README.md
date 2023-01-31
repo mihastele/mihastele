@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mihastele
-- 👀 I’m interested in all aspects of SW development, IT administration, DevSecOps and IT management
+- 👀 I’m interested in all aspects of SW development, IT administration, DevSecOps and A.I.
 - 🌱 I’m currently learning different things, trying out new stuff, experimenting
 - 💞️ I’m looking to collaborate on literally anything useful :)
 - 📫 How to reach me stele1000@gmail.com
