@@ -5,6 +5,8 @@
 - 📫 How to reach me stele1000@gmail.com
 --> 
 
+![](https://komarev.com/ghpvc/?username=mihastele)
+
 🎓 I am a graduate in computer science from University of Ljubljana with a passion for technology and a drive to continuously learn and grow in the field. With over 5 years of experience in programming and a broad range of IT expertise, including Software Development 💻, Networking 🌎, Databases, DevOps, A.I. 🤖, and Cybersecurity 🔐, I bring a well-rounded skillset to any project.
 
 💪 I am always seeking new challenges and opportunities to expand my knowledge and skills. My strong problem-solving skills, attention to detail, and ability to work well in a team environment 🤝 make me a valuable asset to any organization.
