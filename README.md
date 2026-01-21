@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mihastele)
 
+Thank you for stopping by, I appreciate it m8
+
 ```txt
    /\_/\
   ( o.o )
