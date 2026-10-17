@@ -9,4 +9,4 @@ Thank you for stopping by, I appreciate it m8
 ```
 
 
-[![Miha Stele's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihastele)](https://github.com/mihastele/github-readme-stats)
+[![Miha Stele's GitHub stats](https://github-stats-extended.vercel.app/api?username=mihastele)](https://github.com/mihastele/github-stats-extended)
