@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=mihastele)
+
+![](https://komarev.com/ghpvc/?username=mihastele&color=brightgreen)
 
 Thank you for stopping by, I appreciate it m8
 
